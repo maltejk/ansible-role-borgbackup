@@ -1,0 +1,3 @@
+[submodule "module_utils/borgbase_api_client"]
+	path = module_utils/borgbase_api_client
+	url = git@github.com:maltejk/borgbase-api-client.git
